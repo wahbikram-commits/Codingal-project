@@ -9,3 +9,4 @@ print(type(age))
 
 weight=float(weight)
 print(type(weight))
+
